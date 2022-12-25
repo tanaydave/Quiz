@@ -1,0 +1,38 @@
+body {
+    color: red;
+}
+
+.one {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    padding: 100px
+}
+
+#inbox1 {
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.answers,.correct {
+
+    text-align: left;
+    padding: 10px;
+
+
+}
+
+.buttons {
+    /* border-block-end-width: 10px; */
+    border-radius: 10px;
+    border-style: double;
+    padding: 7px;
+    display: inline-block;
+    width: 350px;
+    background-color: white;
+    
+}
+
+.qn {
+    padding: 10px;
+}
